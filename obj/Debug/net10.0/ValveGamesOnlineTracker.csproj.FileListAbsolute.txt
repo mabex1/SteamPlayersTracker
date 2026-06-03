@@ -1,0 +1,14 @@
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\bin\Debug\net10.0\ValveGamesOnlineTracker.exe
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\bin\Debug\net10.0\ValveGamesOnlineTracker.deps.json
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\bin\Debug\net10.0\ValveGamesOnlineTracker.runtimeconfig.json
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\bin\Debug\net10.0\ValveGamesOnlineTracker.dll
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\bin\Debug\net10.0\ValveGamesOnlineTracker.pdb
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\obj\Debug\net10.0\ValveGamesOnlineTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\obj\Debug\net10.0\ValveGamesOnlineTracker.AssemblyInfoInputs.cache
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\obj\Debug\net10.0\ValveGamesOnlineTracker.AssemblyInfo.cs
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\obj\Debug\net10.0\ValveGamesOnlineTracker.csproj.CoreCompileInputs.cache
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\obj\Debug\net10.0\ValveGamesOnlineTracker.dll
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\obj\Debug\net10.0\refint\ValveGamesOnlineTracker.dll
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\obj\Debug\net10.0\ValveGamesOnlineTracker.pdb
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\obj\Debug\net10.0\ValveGamesOnlineTracker.genruntimeconfig.cache
+D:\csharp\ValveGamesOnlineTracker\ValveGamesOnlineTracker\obj\Debug\net10.0\ref\ValveGamesOnlineTracker.dll
