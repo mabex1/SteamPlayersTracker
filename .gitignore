@@ -1,41 +1,7 @@
-# Build artifacts
 bin/
 obj/
-*.exe
-*.dll
-*.pdb
-*.deps.json
-*.runtimeconfig.json
-
-# User-specific files
+*.db
+*.db-shm
+*.db-wal
 *.user
 *.suo
-*.userosscache
-*.sln.docstates
-
-# VS Code
-.vscode/
-
-# Rider
-.idea/
-
-# OS junk
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Database
-*.db
-*.sqlite
-
-# Temp files
-tmp/
-temp/
-
-# dotenv
-.env
-
-# Published output
-/publish/
