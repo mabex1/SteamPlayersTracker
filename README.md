@@ -30,7 +30,7 @@ Includes GoldSource, Source, and Source 2 titles:
 ## Setup
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/SteamPlayersTracker.git
+    git clone https://github.com/mabex1/SteamPlayersTracker.git
     cd SteamPlayersTracker
 2. Run the application:
     dotnet run
